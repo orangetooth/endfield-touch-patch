@@ -1,0 +1,8 @@
+*.dll
+*.exe
+*.bak
+*.log
+*.previous
+*.touch-stage-*
+__pycache__/
+publish-result.txt

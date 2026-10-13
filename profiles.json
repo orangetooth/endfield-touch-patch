@@ -4,7 +4,8 @@
   "profiles": [
     {
       "id": "pc-sha-c24495e5",
-      "name": "PC build c24495e5",
+      "name": "Endfield 1.5.3 PC",
+      "game_version": "1.5.3",
       "size": 256677352,
       "original_sha256": "c24495e51b406f03b03890c4788ee618ae022c991405be5d5b8b787cb775ae89",
       "target_variant": "v3",

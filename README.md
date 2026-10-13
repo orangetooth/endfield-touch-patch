@@ -38,6 +38,8 @@ powershell.exe -NoProfile -ExecutionPolicy Bypass -File .\patch.ps1 -Offline
 |---|---|---|
 |1.5.3|Windows PC|v3|
 
+版本号取自游戏安装目录中的 `Endfield_Data/globalgamemanagers` 配置文件。
+
 **v3 是本项目补丁编号，不是游戏版本号。** 工具会进一步校验游戏文件，版本名称相同也必须匹配已收录的文件哈希才能应用。
 
 已安装本项目 v1/v2 的同一客户端可直接升级至 v3，或恢复原版。诊断版文件需先使用原诊断工具恢复。

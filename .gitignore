@@ -8,3 +8,6 @@ __pycache__/
 publish-result.txt
 publish.cmd
 publish.ps1
+profiles-cache.json
+profiles-cache.json.*.tmp
+tests/.work-*/

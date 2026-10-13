@@ -6,3 +6,5 @@
 *.touch-stage-*
 __pycache__/
 publish-result.txt
+publish.cmd
+publish.ps1

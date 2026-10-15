@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "revision": 1,
+  "revision": 2,
   "profiles": [
     {
       "id": "pc-sha-c24495e5",
@@ -79,6 +79,42 @@
             {
               "offset": 48394105,
               "before": "0f84e511cd01",
+              "after": "909090909090"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pc-sha-ab00f1c4",
+      "name": "Endfield 1.6.3 PC",
+      "game_version": "1.6.3",
+      "size": 320407528,
+      "original_sha256": "ab00f1c41e13edf9816f142b166e3c2536d5bc7707992c39e5ed52d1cc888e2c",
+      "target_variant": "v3",
+      "variants": [
+        {
+          "id": "v3",
+          "sha256": "307e642701790e2e21ae3194c658a7038c7881f3fbb6dc1bdd5a2332ce49c0f0",
+          "patches": [
+            {
+              "offset": 115712733,
+              "before": "e86e000000",
+              "after": "b801000000"
+            },
+            {
+              "offset": 89180234,
+              "before": "e971fdffff",
+              "after": "b001c39090"
+            },
+            {
+              "offset": 89180385,
+              "before": "e9dafcffff",
+              "after": "b001c39090"
+            },
+            {
+              "offset": 86424647,
+              "before": "0f842a0d0802",
               "after": "909090909090"
             }
           ]
